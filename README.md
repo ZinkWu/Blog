@@ -10,3 +10,4 @@
  - [这一次，我一定会搞定 this ！](https://github.com/ZinkWu/Blog/issues/6)
  - [input 如何处理中文输入防抖](https://github.com/ZinkWu/Blog/issues/7)
  - [call & apply & bind 实现](https://github.com/ZinkWu/Blog/issues/8)
+ - [浏览器地址栏输入URL敲回车之后发生了哪些事](https://github.com/ZinkWu/Blog/issues/11)
