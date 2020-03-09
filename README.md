@@ -15,3 +15,4 @@
  - [数据结构之链表](https://github.com/ZinkWu/Blog/issues/16)
 
 # 2020
+ - [杂记](https://github.com/ZinkWu/Blog/issues/19)
