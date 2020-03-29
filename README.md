@@ -20,3 +20,4 @@
  - [3.24 数组中重复的数字](https://github.com/ZinkWu/Blog/issues/21) 每日一题启动
  - [3.26 二维数组中的查找](https://github.com/ZinkWu/Blog/issues/22) 昨日出门修手机，鸽了:(
  - [3.28 替换空格](https://github.com/ZinkWu/Blog/issues/22) 昨日有事外出，鸽
+ - [3.29 从尾到头打印链表](https://github.com/ZinkWu/Blog/issues/23)
