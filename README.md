@@ -21,3 +21,4 @@
  - [二维数组中的查找](https://github.com/ZinkWu/Blog/issues/22)
  - [替换空格](https://github.com/ZinkWu/Blog/issues/22)
  - [从尾到头打印链表](https://github.com/ZinkWu/Blog/issues/23)
+ - [二叉树基础](https://github.com/ZinkWu/Blog/issues/24)
