@@ -22,3 +22,4 @@
  - [从尾到头打印链表](https://github.com/ZinkWu/Blog/issues/24)
  - [二叉树基础](https://github.com/ZinkWu/Blog/issues/25)
  - [二进制求和](https://github.com/ZinkWu/Blog/issues/26)
+ - [位运算](https://github.com/ZinkWu/Blog/issues/27)
