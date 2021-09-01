@@ -26,3 +26,4 @@
 
 # 2021
  - [疗愈-000](https://github.com/ZinkWu/Blog/issues/30)
+ - [疗愈-001](https://github.com/ZinkWu/Blog/issues/32)
