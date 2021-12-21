@@ -12,9 +12,9 @@
  - [call & apply & bind 实现](https://github.com/ZinkWu/Blog/issues/8)
  - [浏览器地址栏输入URL敲回车之后发生了哪些事](https://github.com/ZinkWu/Blog/issues/11)
  - [数据结构之栈、队列](https://github.com/ZinkWu/Blog/issues/14)
- - [数据结构之链表](https://github.com/ZinkWu/Blog/issues/16)
 
 # 2020
+ - [数据结构之链表](https://github.com/ZinkWu/Blog/issues/16)
  - [2020.3.18 凌晨](https://github.com/ZinkWu/Blog/issues/20)
  - [数组中重复的数字](https://github.com/ZinkWu/Blog/issues/21)
  - [二维数组中的查找](https://github.com/ZinkWu/Blog/issues/22)
